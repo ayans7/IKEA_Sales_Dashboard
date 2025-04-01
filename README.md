@@ -3,10 +3,10 @@
 IKEA, a global leader in home furnishings, wanted to enhance its ability to track and analyze online sales performance across India. The business owner required a dynamic, interactive Power BI dashboard to monitor key sales metrics, identify high-value customers, and optimize sales strategies in real time.
 # Business Problem
 IKEA needed a centralized solution to:
-•	Track and analyze online sales data across multiple regions in India.
-•	Identify high-value customers and understand purchasing behavior.
-•	Enable real-time sales tracking and performance optimization.
-•	Provide interactive reporting with drill-down capabilities for in-depth analysis.
+1. Track and analyze online sales data across multiple regions in India.
+2. Identify high-value customers and understand purchasing behavior.
+3. Enable real-time sales tracking and performance optimization.
+4. Provide interactive reporting with drill-down capabilities for in-depth analysis.
 # Solution Approach
 As a Data Analyst, I developed a Power BI dashboard that transformed raw sales data into insightful, interactive reports. The solution included:
 
