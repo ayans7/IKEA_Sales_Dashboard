@@ -16,26 +16,30 @@ Data Transformation & Processing
 •	Applied DAX calculations to generate meaningful insights (e.g., total sales, revenue growth, customer segmentation).
 
 Dashboard Features & Functionalities
+
 •	Dynamic Filtering & Drill-Down
-o	Implemented complex parameters for multi-level drill-down analysis.
-o	Added interactive filters and slicers to allow users to segment data by region, product category, time period, and customer segment.
+1. Implemented complex parameters for multi-level drill-down analysis.
+2. Added interactive filters and slicers to allow users to segment data by region, product category, time period, and customer segment.
+
 •	Customized Visualizations
-o	Used a variety of charts and graphs, including:
-	Bar Chart & Clustered Bar Chart – Sales trends and regional comparisons.
-	Pie Chart & Donut Chart – Product category distribution.
-	Scatter Chart – Customer spending patterns.
-	Line & Area Charts – Monthly and yearly sales trends.
-	Maps – Geospatial visualization of online sales across different states.
-	Slicers – Enabling dynamic data exploration.
+-	Used a variety of charts and graphs, including:
+1. Bar Chart & Clustered Bar Chart – Sales trends and regional comparisons.
+2. Pie Chart & Donut Chart – Product category distribution.
+3. Scatter Chart – Customer spending patterns.
+4. Line & Area Charts – Monthly and yearly sales trends.
+5. Maps – Geospatial visualization of online sales across different states.
+6. Slicers – Enabling dynamic data exploration.
+
 •	High-Value Customer Identification
-o	Implemented RFM (Recency, Frequency, Monetary) Analysis to identify top customers.
-o	Created customer segmentation dashboards for targeted marketing strategies.
+1. Implemented RFM (Recency, Frequency, Monetary) Analysis to identify top customers.
+2. Created customer segmentation dashboards for targeted marketing strategies.
+
 •	Real-Time Updates & Performance Tracking
-o	Enabled real-time data refresh to track sales trends dynamically.
-o	Provided automated insights to help the sales team optimize marketing and inventory strategies.
+1. Enabled real-time data refresh to track sales trends dynamically.
+2. Provided automated insights to help the sales team optimize marketing and inventory strategies.
 # Business Impact
-✅ Improved decision-making with real-time sales insights.
-✅ Enhanced customer targeting by identifying high-value customers.
-✅ Enabled IKEA to track regional performance and adjust pricing strategies.
-✅ Increased efficiency in reporting with automated, interactive dashboards.
-✅ Helped optimize online sales and marketing efforts for higher revenue growth.
+1. Improved decision-making with real-time sales insights.
+2. Enhanced customer targeting by identifying high-value customers.
+3. Enabled IKEA to track regional performance and adjust pricing strategies.
+4. Increased efficiency in reporting with automated, interactive dashboards.
+5. Helped optimize online sales and marketing efforts for higher revenue growth.
