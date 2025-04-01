@@ -11,9 +11,10 @@ IKEA needed a centralized solution to:
 As a Data Analyst, I developed a Power BI dashboard that transformed raw sales data into insightful, interactive reports. The solution included:
 
 Data Transformation & Processing
-•	Cleaned, structured, and transformed raw data into professional-quality reports.
-•	Created relationships and connections between multiple datasets (e.g., orders, customers, products, and regions).
-•	Applied DAX calculations to generate meaningful insights (e.g., total sales, revenue growth, customer segmentation).
+
+1. Cleaned, structured, and transformed raw data into professional-quality reports.
+2. Created relationships and connections between multiple datasets (e.g., orders, customers, products, and regions).
+3. Applied DAX calculations to generate meaningful insights (e.g., total sales, revenue growth, customer segmentation).
 
 Dashboard Features & Functionalities
 
